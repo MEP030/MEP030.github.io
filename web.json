@@ -5,16 +5,16 @@
   "search_engine": "https://www.google.co.id/search?q=",
   "favourites": [
     {
-      "key": ":fb",
-      "url": "http://facebook.com"
+      "key": ":hw",
+      "url": "https://howdy.tamu.edu"
     },
     {
       "key": ":tt",
       "url": "http://twitter.com"
     },
     {
-      "key": ":ig",
-      "url": "http://instagram.com"
+      "key": ":ca",
+      "url": "https://calendar.google.com/calendar/r"
     },
     {
       "key": ":yt",
@@ -33,7 +33,7 @@
       "url": "http://reddit.com"
     },
     {
-      "key": ":em",
+      "key": ":gm",
       "url": "http://gmail.com"
     }
   ]
