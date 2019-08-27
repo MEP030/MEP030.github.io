@@ -36,5 +36,13 @@
       "key": ":gm",
       "url": "http://gmail.com"
     }
+	{
+	"key": ":zy",
+	"url": "https://learn.zybooks.com/signin"
+	}
+	{
+	"key": ":reef",
+	"url": "https://app.reef-education.com/#/login"
+	}
   ]
 }
